@@ -25,6 +25,6 @@ python3 ./lab.py
 
 3. Open 127.0.0.1:80
 4. login as `demo:demo`
-5. Open lab ![image] (image.png)
+5. Open lab ![image] (./image.png)
 6. Observe graph 
-7. Check ![image2] (image1.png)
+7. Check ![image2] (./image1.png)
